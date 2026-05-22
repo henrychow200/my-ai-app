@@ -1,0 +1,8 @@
+{
+  "name": "NuBalance Pro",
+  "description": "A comprehensive nutrition and hydration tracking app with personalized targets and AI-inspired meal planning UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
