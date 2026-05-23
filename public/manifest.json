@@ -7,10 +7,10 @@
   "theme_color": "#ffffff",
   "icons": [
     {
-      "src": "https://grand-kitsune-bf00f2.netlify.app/assets/logo.png",
+      "src": "https://cdn-icons-png.flaticon.com/512/3373/3373001.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
     }
   ]
 }
